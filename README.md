@@ -57,11 +57,8 @@ This project was created as part of my data analysis learning journey to improve
 
 ## Dashboard Preview
 
-*Add your dashboard screenshot here after uploading the image to GitHub.*
+<img width="1919" height="1079" alt="Screenshot 2026-06-03 111112" src="https://github.com/user-attachments/assets/2208458e-7046-4264-bfc5-ee1d938a5844" />
 
-Example:
-
-<img width="1919" height="1079" alt="Screenshot 2026-06-03 111130" src="https://github.com/user-attachments/assets/851a7e0e-1653-404c-901e-1487f016baa6" />
 <img width="1919" height="1079" alt="Screenshot 2026-06-03 111130" src="https://github.com/user-attachments/assets/c2be7fcb-a84c-4005-90f5-f6fb0dc08afb" />
 
 
