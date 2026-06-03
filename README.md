@@ -96,5 +96,6 @@ Through this project, I improved my understanding of:
 
 ## Author
 
-**Som Dubey**
+**Som Dubey**  
 Aspiring Data Analyst | Excel & Data Visualization Enthusiast
+[LinkedIn Profile Link](https://www.linkedin.com/in/som-dubey002)
